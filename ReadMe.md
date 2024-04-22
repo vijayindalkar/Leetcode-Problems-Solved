@@ -4,6 +4,7 @@
 724. Find Pivot Index
 704. Binary Search
 69. Sqrt(x)
+1523. Count Odd Numbers in an Interval Range
 
 
 ## Medium 
